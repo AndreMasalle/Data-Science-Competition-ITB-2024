@@ -1,5 +1,32 @@
 # Data-Science-Competition-ITB-2024
 
+### <p align="center">Kelompok Tim Analisis Ngaco</p>
+
+
+<table align="center">
+  <tr>
+    <th>Nama</th>
+    <th>NIM</th>
+  </tr>
+  <tr>
+    <td>Rahmat Pratami</td>
+    <td>6706223136</td>
+  </tr>
+  <tr>
+    <td>Andre Franciscus Masalle</td>
+    <td>6706223155</td>
+  </tr>
+  <tr>
+    <td>Elia Roysandi Manurun</td>
+    <td>6701223121</td>
+  </tr>
+</table>
+
+
+
+
+
+
 ### Latar belakang
 
 
