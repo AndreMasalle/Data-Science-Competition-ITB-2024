@@ -13,7 +13,7 @@
     <td>6706223136</td>
   </tr>
   <tr>
-    <td>Andre Franciscus Masalle</td>
+    <td>Andre Fransiscus Masalle</td>
     <td>6706223155</td>
   </tr>
   <tr>
