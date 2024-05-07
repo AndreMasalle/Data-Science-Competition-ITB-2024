@@ -1,6 +1,6 @@
 # Data-Science-Competition-ITB-2024
 
-### <p align="center">Kelompok Tim Analisis Ngaco</p>
+### <p align="center">Anggota Tim Analisis Ngaco</p>
 
 
 <table align="center">
