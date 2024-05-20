@@ -1,4 +1,4 @@
-# Data-Science-Competition-ITB-2024
+# Data Science Competition Institut Teknologi Bandung 2024
 
 ### <p align="center">Anggota Tim Analisis Ngaco</p>
 
